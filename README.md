@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi name is Elisa (they call me Elis0u or Zouzou) 👋
 
 <!--
 **Elis0u/Elis0u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
