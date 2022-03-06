@@ -6,7 +6,7 @@
 👩🏽‍💻 &nbsp;I'm working at the Saint-lô golf club as a WebMaster.\
 📖 &nbsp;I like to learn independently.\
 ⛳️ &nbsp;I have been passionate about golf since I was 12 years old. I play at Granville golf course and I am part of the women's team of this one.\
-💯 &nbsp;My other interests are sports, music, video games.\
+💯 &nbsp;My other interests are sports, music, video games.
 
 ### 💻 &nbsp;Language, CMS and tools
 
