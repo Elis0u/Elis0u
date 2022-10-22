@@ -2,7 +2,7 @@
 
 ### 🤗 &nbsp;About Me
 
-🎓 &nbsp;I I will start a new training in November for 3 months (bootcamp) : Fullstack Js Developer
+🎓 &nbsp;I I will start a new training in November for 3 months (bootcamp) : Fullstack Js Developer.\
 🎓 &nbsp;I obtained my "Interactive Media Integrator Developer" diploma in 2022 (2 years).\
 👩🏽‍💻 &nbsp;I worked at the Saint-Lô Golf Club as a Webmaster (1 years for my diploma).\
 📖 &nbsp;I like to learn independently.\
