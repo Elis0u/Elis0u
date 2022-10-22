@@ -8,7 +8,7 @@
 📖 &nbsp;I like to learn independently.\
 ⛳️ &nbsp;I have been passionate about golf since I was 12 years old. I play at Granville golf course and I am part of the women's team of this one.\
 💯 &nbsp;My other interests are sports, music, video games.\
-✉️ &nbsp;You can contact me by email dadure.elisa@outlook.com or by discord Elis0u#0013.\
+✉️ &nbsp;You can contact me by email dadure.elisa@outlook.com or by discord Elis0u#0013.
 
 ### 💻 &nbsp;Language, CMS and tools
 
