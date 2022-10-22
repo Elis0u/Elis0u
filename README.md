@@ -2,8 +2,9 @@
 
 ### 🤗 &nbsp;About Me
 
-🎓 &nbsp;Actually, I am in a training center in order to obtain an developer and integrator of interactive media diploma.\
-👩🏽‍💻 &nbsp;I'm working at the Saint-lô golf club as a WebMaster.\
+🎓 &nbsp;I I will start a new training in November for 3 months (bootcamp) : Fullstack Js Developer
+🎓 &nbsp;I obtained my "Interactive Media Integrator Developer" diploma in 2022 (2 years).\
+👩🏽‍💻 &nbsp;I worked at the Saint-Lô Golf Club as a Webmaster (1 years for my diploma).\
 📖 &nbsp;I like to learn independently.\
 ⛳️ &nbsp;I have been passionate about golf since I was 12 years old. I play at Granville golf course and I am part of the women's team of this one.\
 💯 &nbsp;My other interests are sports, music, video games.
