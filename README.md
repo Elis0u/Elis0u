@@ -16,19 +16,19 @@
 ![CSS3](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff)&nbsp;
 ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-7952B3?logo=bootstrap&logoColor=fff)&nbsp;
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?logo=javascript&logoColor=fff)&nbsp;
+![REACT](https://img.shields.io/badge/-REACT-61DAFB?logo=nodedotjs&logoColor=fff)&nbsp;
+![NODEJS](https://img.shields.io/badge/-NODEJS-339933?logo=nodedotjs&logoColor=fff)&nbsp;
 ![WORDPRESS](https://img.shields.io/badge/-WORDPRESS-21759B?logo=wordpress&logoColor=ffffff)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=ffffff)&nbsp;
 ![SYMFONY](https://img.shields.io/badge/-SYMFONY-000000?logo=symfony&logoColor=ffffff)&nbsp;
 ![MYSQL](https://img.shields.io/badge/-MYSQL-4479A1?logo=mysql&logoColor=ffffff)&nbsp;
 ![VISUAL STUDIO](https://img.shields.io/badge/-VISUAL%20STUDIO%20CODE-007ACC?logo=visualstudiocode&logoColor=ffffff)&nbsp; 
 
+![FIGMA](https://img.shields.io/badge/-FIGMA-F24E1E?logo=nodedotjs&logoColor=fff)&nbsp;
 ![ADOBE PHOTOSHOP](https://img.shields.io/badge/-ADOBE%20PHOTOSHOP-31A8FF?logo=adobephotoshop&logoColor=ffffff)&nbsp; 
 ![ADOBE ILLUSTRATOR](https://img.shields.io/badge/-ADOBE%20ILLUSTRATOR-FF9A00?logo=adobeillustrator&logoColor=ffffff)&nbsp;
 ![ADOBE AFTER EFFECTS](https://img.shields.io/badge/-ADOBE%20AFTER%20EFFECTS-9999FF?logo=adobeaftereffects&logoColor=ffffff)&nbsp;
 ![ADOBE XD](https://img.shields.io/badge/-ADOBE%20XD-FF61F6?logo=adobexd&logoColor=ffffff)&nbsp;
-![ADOBE INDESIGN](https://img.shields.io/badge/-ADOBE%20INDESIGN-FF3366?logo=adobeindesign&logoColor=ffffff)&nbsp;
-![ADOBE PREMIER PRO](https://img.shields.io/badge/-ADOBE%20PREMIERE%20PRO-9999FF?logo=adobepremierepro&logoColor=ffffff)&nbsp;
-![ADOBE LIGHTROOM CLASSIC](https://img.shields.io/badge/-ADOBE%20LIGHTROOM%20CLASSIC-31A8FF?logo=adobelightroomclassic&logoColor=ffffff)&nbsp;
 
 ### 💻 &nbsp;My Network
 
