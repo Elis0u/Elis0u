@@ -11,6 +11,14 @@
 💯 &nbsp;My other interests are sports, music, video games and F1.\
 ✉️ &nbsp;You can contact me by email dadure.elisa@outlook.com or by discord Elis0u#0013.
 
+### 💻 &nbsp;My projects
+
+- Discord Bot (javascript)\
+- Intranet for a golf team (react / node)\
+- Golfer social network (symfony)\
+- Golf website (wordpress custom theme)\
+- Bakery website (wordpress custom theme)\
+
 ### 💻 &nbsp;Language, CMS and tools
 
 ![HTML5](https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff)&nbsp;
