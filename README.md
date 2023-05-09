@@ -13,11 +13,11 @@
 
 ### 💻 &nbsp;My projects
 
-- Discord Bot (javascript)\
-- Intranet for a golf team (react / node)\
-- Golfer social network (symfony)\
-- Golf website (wordpress custom theme)\
-- Bakery website (wordpress custom theme)\
+- Discord Bot (javascript)
+- Intranet for a golf team (react / node)
+- Golfer social network (symfony)
+- Golf website (wordpress custom theme)
+- Bakery website (wordpress custom theme)
 
 ### 💻 &nbsp;Language, CMS and tools
 
