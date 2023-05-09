@@ -5,7 +5,7 @@
 🎓 &nbsp;I will start a new training in September 2023 for 1 year as a work-study student : Application Developer.\
 🎓 &nbsp;I did a 3 month training in November 2022 for 3 months (bootcamp) : Fullstack Js Developer.\
 🎓 &nbsp;I obtained my "Interactive Media Integrator Developer" diploma in 2022 (2 years).\
-👩🏽‍💻 &nbsp;I worked at the Saint-Lô Golf Club as a Webmaster (1 years for my diploma).\
+👩🏽‍💻 &nbsp;I worked at the Saint-Lô Golf Club as a Webmaster (1 year for my diploma).\
 📖 &nbsp;I like to learn independently.\
 ⛳️ &nbsp;I have been passionate about golf since I was 12 years old. I play at Granville golf course and I am part of the women's team of this one.\
 💯 &nbsp;My other interests are sports, music, video games and F1.\
