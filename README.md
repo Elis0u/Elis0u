@@ -1,6 +1,17 @@
-<h2> Hi👋 My name is Elisa (Elis0u or Zouzou) </h2>
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWc1YXl0YmQxczRzZDR6anV5NzhmOHF2bmJrcmkwYWtxaDZ3bzNvbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="100"/>
+  <div id="badges">
+   <a href="https://www.linkedin.com/in/elisa-dadure-4009b41ba/">
+     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+   </a>
+   <a href="">
+     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Youtube Badge"/>
+   </a>
+ </div>
+ <h2> Hi👋 My name is Elisa (Elis0u or Zouzou) </h2>
+</div>
 
-### 🤗 &nbsp;About Me
+### :woman_technologist: About Me :
 
 🎓  &nbsp;Since September 2023, I have been working as a Web Developer in a medical company through an apprenticeship program, while concurrently pursuing a diploma in Application Development.\
 🎓  &nbsp;I completed a 3-month Fullstack JavaScript Developer bootcamp in November 2022.\
@@ -41,9 +52,3 @@
 ![ADOBE ILLUSTRATOR](https://img.shields.io/badge/-ADOBE%20ILLUSTRATOR-FF9A00?logo=adobeillustrator&logoColor=ffffff)&nbsp;
 ![ADOBE AFTER EFFECTS](https://img.shields.io/badge/-ADOBE%20AFTER%20EFFECTS-9999FF?logo=adobeaftereffects&logoColor=ffffff)&nbsp;
 ![ADOBE XD](https://img.shields.io/badge/-ADOBE%20XD-FF61F6?logo=adobexd&logoColor=ffffff)&nbsp;
-
-### 💻 &nbsp;My Network
-
-<a href="https://dadureelisa.ovh/"><img src="https://img.shields.io/badge/-MY%20WEBSITE-00A98F?logo=about.me&logoColor=ffffff"/></a>
-<a href="https://www.linkedin.com/in/elisa-dadure-4009b41ba/"><img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?logo=linkedIn&logoColor=ffffff"/></a>
-<p><img src="https://img.shields.io/badge/-DISCORD-5865F2?logo=discord&logoColor=ffffff"/> → Elis0u#0013</p>
