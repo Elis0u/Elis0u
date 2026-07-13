@@ -41,23 +41,6 @@ Git • Storybook • Vitest • Playwright • Figma • Socket.IO
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Elis0u&show_icons=true&theme=radical&hide_border=true" alt="Elisa's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elis0u&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Elis0u&theme=radical&no-frame=true&row=1&column=6" alt="GitHub trophies" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Elis0u/Elis0u/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
-</div>
-
----
-
 ### 🚀 Projects
 
 - **MDT Flashback** — Multi-department management platform for a GTA RP online community (~136 active users). In continuous development and production since Nov. 2024. 149-model relational schema across 3 factions (Police, Medical, Justice), real-time edit-locking system with Socket.IO. `Next.js • TypeScript • Prisma • PostgreSQL • Socket.IO`
@@ -65,5 +48,3 @@ Git • Storybook • Vitest • Playwright • Figma • Socket.IO
 - **Golf Team Intranet** — Bootcamp project, fullstack intranet for a women's golf team. `React • Node.js • MySQL`
 - **Social Network for Golfers** — Training project. `Symfony • Bootstrap`
 - **Golf Club Website** — Custom WordPress theme, from brief to production.
-
----
