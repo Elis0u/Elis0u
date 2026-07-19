@@ -38,6 +38,8 @@ Off keyboard: golf since I was 12, F1, gaming, music, design.
 
 ---
 
+### 🚀 Projects
+
 #### MDT Flashback
 `Next.js` `TypeScript` `Prisma` `PostgreSQL` `Socket.IO`
 
@@ -71,3 +73,5 @@ Training project.
 Custom WordPress theme, from brief to production.
 
 ---
+
+Got something to build? Hit me up.
