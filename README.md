@@ -40,23 +40,27 @@ Off keyboard: golf since I was 12, F1, gaming, music, design.
 
 ### 🚀 Projects
 
-**MDT Flashback** · Next.js, TypeScript, Prisma, PostgreSQL, Socket.IO
+#### MDT Flashback
+*Next.js, TypeScript, Prisma, PostgreSQL, Socket.IO*
 
 Management platform for a GTA RP community, ~136 active users. In production and actively maintained since Nov 2024. 149 data models across 3 factions (Police, Medical, Justice), plus a real-time edit-locking system so two people can't touch the same file at once.
 
-**Design system @ Datexim** · Vue.js, Storybook, Vitest, Playwright
+#### Design system @ Datexim
+*Vue.js, Storybook, Vitest, Playwright*
 
 Built reusable components for a production design system, covered end to end.
 
-**Golf team intranet** · React, Node.js, MySQL
+#### Golf team intranet
+*React, Node.js, MySQL*
 
 Bootcamp project, fullstack intranet for a women's golf team.
 
-**Social network for golfers** · Symfony, Bootstrap
+#### Social network for golfers
+*Symfony, Bootstrap*
 
 Training project.
 
-**Golf club website**
+#### Golf club website
 
 Custom WordPress theme, from brief to production.
 
